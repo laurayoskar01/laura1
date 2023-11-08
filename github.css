@@ -1,0 +1,50 @@
+/* style.css */
+body {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif; /* Choose a suitable font */
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.center-inputs {
+    text-align: center;
+}
+
+.center-inputs input[type="text"] {
+    display: block;
+    margin: 0 auto;
+    background-color: #555; /* Input field background color */
+    color: #fff; /* Input text color */
+    padding: 10px;
+    border: none;
+}
+
+.center-button {
+    text-align: center;
+}
+
+button {
+    background-color: #8DB600; /* Green-yellow color for the button */
+    color: #fff; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6C8C00; /* Darker green-yellow on hover */
+}
+
+#resultado {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
